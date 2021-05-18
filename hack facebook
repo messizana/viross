@@ -1,0 +1,26 @@
+apt update && apt upgrade
+
+pkg install git
+
+pkg install python
+
+apt install python2
+
+pkg install pip
+
+pip2 install mechanize
+
+git clone https://github.com/hnov7/mbf
+
+
+if u want to use this tool in English then use this link
+
+
+https://github.com/und3f1n3/budiman/blob/master/englishtutorial.md
+
+
+cd mbf
+
+ls
+
+python2 mbf.py
